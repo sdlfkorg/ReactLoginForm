@@ -1,0 +1,35 @@
+/* html,
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+html {
+  height: 100%;
+} */
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.LoginForm__Title {
+  color: lightskyblue;
+  font-size: 26px;
+}
+
+.LoginForm__contextText {
+  color: lightslategrey;
+  font-size: 16px;
+}
+
+.CommonInput__input {
+  width: 90%;
+}
+
+.MuiInputBase-root .Mui-focused {
+  border-color: green !important;
+}
+.DividerInput__tailText {
+  color: lightskyblue;
+  font-size: 14px;
+}

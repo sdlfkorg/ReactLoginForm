@@ -1,2 +1,0 @@
-# ReactLoginForm
-Created with CodeSandbox
